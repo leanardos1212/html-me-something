@@ -1,0 +1,57 @@
+section{
+    color:whitesmoke;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 100px;
+}
+
+body{
+    background-color: black
+}
+
+h1{
+    color: red;
+    text-align: center;
+}
+
+.small{
+    color:pink;
+    text-align: center;
+}
+
+h2{
+    color: yellowgreen;
+    text-align: right;
+}
+
+ol{
+    color: goldenrod
+}
+
+footer{
+    color: pink;
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 100px;
+
+}
+
+.img{
+    text-align: center;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+#footerimage{
+    
+    text-align: center;
+    padding-top: 50px;
+    padding-right: 60px;
+    padding-bottom: 50px;
+    padding-left: 100px;
+}
